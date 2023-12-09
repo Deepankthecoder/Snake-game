@@ -1,0 +1,16 @@
+
+h1{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 2px solid  red;
+}
+
+
+canvas{
+    background-color: black;
+    border: 7px solid yellow;
+    border-radius: 10px;
+
+}
